@@ -153,7 +153,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30" height="30">
 </a>
 <!-- 📮 Gmail -->
-<a href="mailto:Aditij0918@gmail.com" target="_blank">
+<a href="mailto:vetalimittal@gmail.com" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30">
 </a>
 </div>
